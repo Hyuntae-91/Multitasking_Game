@@ -2,9 +2,10 @@
 멀티태스킹 게임을 ATmega128A 기기를 이용하여 구현한 프로젝트입니다.
 
 ### Developed Enviroment
-
+    - Windows 10
     - C Language
     - ATmega128
+    - Atmel Studio
     - Illuminance sensor ( 조도센서 )
     - Joystick ( 조이스틱 )
     - Acceleration sensor ( 가속도 센서 ) 

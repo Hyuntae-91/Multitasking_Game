@@ -27,5 +27,8 @@
        (양손으로 잡고 플레이 하기 편하게 하기 위함)
 
 
+### Degine Document
+  [Document]() 
+
 ### YouTube Link
   [YouTube](https://www.youtube.com/watch?v=N7OBNkm8KTM&feature=youtu.be)

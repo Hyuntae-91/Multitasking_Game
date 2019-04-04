@@ -28,7 +28,7 @@
 
 
 ### Degine Document
-  [Document]() 
+  [Document](Design_Document/Design_Document.md) 
 
 ### YouTube Link
   [YouTube](https://www.youtube.com/watch?v=N7OBNkm8KTM&feature=youtu.be)

@@ -144,32 +144,32 @@ tartBalanceGame() 함수이다. moveBar() 함수가 주 함수이고, 이 함수
 
 ![](./Images/24.png)
 
-1) Ship Game
- - 2x2 사각형(Ship)이 15x15 사각형(Destination)에 시간 안에 도달하는 게임
-   조이스틱을 사용해서 조작할 수 있다.
-   오른쪽 위의 Decimal은 도달하는데 남은 시간
+### Ship Game
+   - 2x2 사각형(Ship)이 15x15 사각형(Destination)에 시간 안에 도달하는 게임
+     조이스틱을 사용해서 조작할 수 있다.
+     오른쪽 위의 Decimal은 도달하는데 남은 시간
 
-2) Balance Game
- - 40pixel 길이의 Bar에서 2x2 Circle(Ball)이 떨어지지 않게 하는 게임
-   가속도 센서를 사용해서 조작할 수 있다.
+### Balance Game
+   - 40pixel 길이의 Bar에서 2x2 Circle(Ball)이 떨어지지 않게 하는 게임
+     가속도 센서를 사용해서 조작할 수 있다.
 
-3) Jump Game
- - 63pixel 길이의 Bar(Ground)에서 2x2 사각형(Jumper)이 틈에 빠지지 않게 점프하는 게임
-   조도센서를 사용하여 조작할 수 있다.
+### Jump Game
+   - 63pixel 길이의 Bar(Ground)에서 2x2 사각형(Jumper)이 틈에 빠지지 않게 점프하는 게임
+     조도센서를 사용하여 조작할 수 있다.
 
 
 ## Scrren Description(Menu)
 
 ![](./Images/25.png)
 
-1) 기본조작
- - 조이스틱으로 ‘>’ 위치를 위 아래로 바꾸고 버튼을 이용해 선택(버튼은 8번)
+### 기본조작
+   - 조이스틱으로 ‘>’ 위치를 위 아래로 바꾸고 버튼을 이용해 선택(버튼은 8번)
 
-2) Start Game
- - Game을 시작.
+### Start Game
+   - Game을 시작.
 
-3) Set Level
- - Easy, Norml, Hard의 난이도를 선택할 수 있다.
+### Set Level
+   - Easy, Norml, Hard의 난이도를 선택할 수 있다.
 
-4) Rank
- - 현재까지의 Ranking정보를 볼 수 있다.
+### Rank
+   - 현재까지의 Ranking정보를 볼 수 있다.
